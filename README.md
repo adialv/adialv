@@ -1,7 +1,7 @@
 ## Olá, sejam bem-vindos.
 
 Meu nome é Adina Alves
-- Estou fazendo cursos da [Alura] (https://www.alura.com.br)
+- Estou fazendo cursos da [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem de JavaScript
 - Utilizo esse espaço para compartilhamento dos meus projetos desenvolvidos
 
